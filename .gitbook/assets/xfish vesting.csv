@@ -1,0 +1,7 @@
+Wallet address,Wallet nickname (optional),Number of tokens to vest,Relationship,Vesting start date (DD/MM/YYYY),Vesting start time,Vesting end date (DD/MM/YYYY),Vesting end time,Vesting cadence,Cliff length (months) - optional,Release percentage at cliff end (%) - optional
+0x21C45B4D114661b602da33d295e4887B20b8bacb,Ecosystem Fund,27000000,Employee,07/02/2024,22:17,07/02/2026,22:17,Per month,0,0
+0x18755A2e0b59b1Bc724A71a0cd7a17376D90DE26,Marketing,9500000,Employee,07/02/2024,22:19,07/02/2026,20:30,Per month,0,0
+0x99f182A705134AFBf66b9Dc95684a3c2ad3DC509,Game Reward,39600000,Employee,07/02/2024,22:22,07/02/2026,20:30,Per month,0,0
+0x4d7c4881eE28bF876E379A2F4576b32458a1ee1b,Liquidity,4500000,Employee,07/02/2024,22:26,07/02/2025,20:30,Per month,0,0
+0x206183D2Bd4Ed90e59843F0689dAA95bfb36F5BE,Team,5000000,Employee,07/02/2024,22:28,07/02/2027,20:30,Per month,12,5
+0x492466A83a2DEdb2854E380bfD304F07B9147916,Reserved,5000000,Employee,07/02/2024,22:29,07/02/2025,20:30,Per month,6,15
