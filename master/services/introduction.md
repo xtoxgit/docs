@@ -2,6 +2,7 @@
 description: >-
   Xtox token launcher helps blockchain projects raise capital and increases the
   accessibility of projects across the crypto ecosystem.
+hidden: true
 ---
 
 # Introduction

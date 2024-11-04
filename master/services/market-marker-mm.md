@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Market Marker (MM)
 
 1. Advisor the script for MM
